@@ -3,7 +3,7 @@ import random
 import openai
 import json
 
-api_key = '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'
+api_key = 'Свой Апи ключи openAi '
 
 #a = input('На какую тему сгенерируем Картинку?')
 def get_neiro_memes():
